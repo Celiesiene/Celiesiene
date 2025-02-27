@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Monika</h1>
 <h3 align="center">A newcomer to the IT world, dreaming of becoming a testing specialist.</h3>
 
-- 🌱 I’m currently learning **QA**
+- 🌱 I’m currently learning **Cypress and Postman**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Celiesiene/Celiesiene/](https://github.com/Celiesiene/Celiesiene/)
 
